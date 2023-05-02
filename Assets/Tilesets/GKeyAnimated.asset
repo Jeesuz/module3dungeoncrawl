@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: GKeyAnimated
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 21300000, guid: 491dd313098bda44a9f727b689c4ec23, type: 3}
+  - {fileID: 21300000, guid: 7507327ff308a504f99ae8f01b92227a, type: 3}
+  - {fileID: 21300000, guid: 1c8df179414b1d24bb842b0890489ee2, type: 3}
+  - {fileID: 21300000, guid: 6351d68dbf9c3cb4daf7b72200d210c7, type: 3}
+  - {fileID: 21300000, guid: 1c8df179414b1d24bb842b0890489ee2, type: 3}
+  - {fileID: 21300000, guid: 7507327ff308a504f99ae8f01b92227a, type: 3}
+  m_MinSpeed: 4
+  m_MaxSpeed: 4
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
